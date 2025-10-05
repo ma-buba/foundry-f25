@@ -11,9 +11,6 @@ Foundry consists of:
 
 ## Documentation
 ## About 
-## getting started 
-## requirements 
-## quickstart 
 
 https://book.getfoundry.sh/
 
