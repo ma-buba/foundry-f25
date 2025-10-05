@@ -2,6 +2,12 @@
   "../../lib/forge-std": {
     "rev": "60acb7aaadcce2d68e52986a0a66fe79f07d138f"
   },
+  "lib/foundry-devops": {
+    "tag": {
+      "name": "0.2.2",
+      "rev": "df9f90b490423578142b5dd50752db9427efb2ac"
+    }
+  },
   "lib\\chainlink-brownie-contracts": {
     "tag": {
       "name": "0.6.1",
